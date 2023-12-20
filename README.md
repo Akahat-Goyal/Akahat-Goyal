@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on projects that push the boundaries of frontend development, whether it's creating innovative user experiences or solving complex design challenges.
 
-📫 How to reach me: Drop me a message via[email](akshatgoyal0112@gmail.com) or find me on [LinkedIn] (https://www.linkedin.com/in/akshat-goyal-5a0469221/) for discussions and potential collaborations.
+📫 How to reach me: Drop me a message via [email] (akshatgoyal0112@gmail.com) or find me on [LinkedIn] (https://www.linkedin.com/in/akshat-goyal-5a0469221/) for discussions and potential collaborations.
 
 Let's code and build captivating interfaces together! 🚀
 
