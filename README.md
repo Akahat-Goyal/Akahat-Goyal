@@ -1,4 +1,4 @@
-👋 Hi, I’m @Akahat-Goyal
+👋 Hi, I’m @Akshat-Goyal
 
 🌱 I’m currently delving into advanced JavaScript library like Reactjs and honing my skills in Html, CSS, Javascript and MySQL to create more dynamic and scalable websites.
 
